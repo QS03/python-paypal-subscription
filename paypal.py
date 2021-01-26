@@ -2,7 +2,7 @@ import json
 import base64
 import requests
 
-from apps.config import *
+from config import *
 
 if PAYPAL_MODE == 'sandbox':
     PAYPAL_BASE_URL = "https://api.sandbox.paypal.com"
