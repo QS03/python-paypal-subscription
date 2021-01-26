@@ -1,0 +1,3 @@
+PAYPAL_MODE=sandbox
+PAYPAL_CLIENT_ID=xxxxxxxxxxxxx
+PAYPAL_CLIENT_SECRET=xxxxxxxxxxxxxx
